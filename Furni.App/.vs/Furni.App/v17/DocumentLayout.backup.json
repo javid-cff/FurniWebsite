@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\contexts\\furnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\contexts\\furnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\migrations\\20251222045744_addproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\migrations\\20251222045744_addproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|c:\\users\\student\\desktop\\furni101\\furni.app\\furni.app\\furni.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2245E68-B09A-4013-A800-C1783CEA5040}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\furni.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Product\\Update.cshtml*",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\Product\\Update.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T05:17:24.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T05:04:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T05:03:17.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Furni.App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T04:39:57.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T06:00:33.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T06:00:16.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T05:59:47.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABgCAAAAAAAAAAAowCcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T05:59:31.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Furni.App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T05:58:59.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Furni.App\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:50:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Program.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Program.cs",
+              "RelativeToolTip": "Furni.App\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:52:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Models\\Product.cs",
+              "RelativeToolTip": "Furni.App\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:34:05.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Furni.App\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Furni.App\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-23T05:55:51.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FurniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Contexts\\FurniDbContext.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Contexts\\FurniDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Contexts\\FurniDbContext.cs",
+              "RelativeToolTip": "Furni.App\\Contexts\\FurniDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:43:37.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Furni.App\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:51:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Furni.App\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:51:33.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Furni.App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T06:11:28.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251222045744_AddProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Migrations\\20251222045744_AddProductsTable.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Migrations\\20251222045744_AddProductsTable.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Migrations\\20251222045744_AddProductsTable.cs",
+              "RelativeToolTip": "Furni.App\\Migrations\\20251222045744_AddProductsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:57:44.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\appsettings.json",
+              "RelativeDocumentMoniker": "Furni.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\appsettings.json",
+              "RelativeToolTip": "Furni.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T04:48:56.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Furni.App.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Furni.App.csproj",
+              "RelativeDocumentMoniker": "Furni.App\\Furni.App.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Furni101\\Furni.App\\Furni.App\\Furni.App.csproj",
+              "RelativeToolTip": "Furni.App\\Furni.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-22T04:42:44.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

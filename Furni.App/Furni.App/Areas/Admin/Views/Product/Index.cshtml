@@ -1,0 +1,32 @@
+﻿@model List<Product>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">ImageName</th>
+            <th scope="col">ImageUrl</th>
+            <th scope="col">CreatedTime</th>
+            <th scope="col">UpdatedTime</th>
+            <th scope="col">IsDeleted</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.ImageName</td>
+                <td>@item.imageUrl</td>
+                <td>@item.CreatedTime</td>
+                <td>@item.UpdatedTime</td>
+                <td>@item.IsDeleted</td>
+                <td><a href="/Product/Update/@item.Id" class="btn btn-warning">Update</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
