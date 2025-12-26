@@ -14,7 +14,8 @@ namespace Furni.App.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Products.AsQueryable().ToListAsync());
+            var products = await _context.Products.Where(c => c.IsDeleted).AsQueryable().ToListAsync();
+            return View(products);
         }
     }
 }

@@ -1,17 +1,14 @@
 ﻿@model Product
 
 @{
-    ViewData["Title"] = "Update Product";
+    ViewData["Title"] = "Create Product";
 }
 
 <div style="max-width:900px;margin:40px auto;padding:25px;background:#ffffff;border-radius:10px;box-shadow:0 0 15px rgba(0,0,0,0.1);">
-    <h2 style="text-align:center;margin-bottom:25px;color:#333;">Update Product</h2>
+    <h2 style="text-align:center;margin-bottom:25px;color:#333;">Create Product</h2>
 
     <div class="row">
-        <form asp-action="Update" method="post" style="width:100%;">
-
-            <!-- Id (hidden) -->
-            <input asp-for="Id" type="hidden" />
+        <form asp-action="Create" method="post" style="width:100%;">
 
             <!-- Name -->
             <div style="margin-bottom:15px;">
@@ -64,8 +61,8 @@
             <!-- Buttons -->
             <div style="text-align:center;">
                 <button type="submit"
-                        style="background:#ffc107;color:#000;padding:10px 25px;border:none;border-radius:6px;font-size:16px;cursor:pointer;">
-                    Update
+                        style="background:#28a745;color:#fff;padding:10px 25px;border:none;border-radius:6px;font-size:16px;cursor:pointer;">
+                    Save
                 </button>
 
                 <a asp-action="Index"

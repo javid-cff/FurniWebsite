@@ -1,32 +1,99 @@
 ﻿@model List<Product>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th scope="col">Id</th>
-            <th scope="col">Name</th>
-            <th scope="col">Price</th>
-            <th scope="col">ImageName</th>
-            <th scope="col">ImageUrl</th>
-            <th scope="col">CreatedTime</th>
-            <th scope="col">UpdatedTime</th>
-            <th scope="col">IsDeleted</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>@item.Id</td>
-                <td>@item.Name</td>
-                <td>@item.Price</td>
-                <td>@item.ImageName</td>
-                <td>@item.imageUrl</td>
-                <td>@item.CreatedTime</td>
-                <td>@item.UpdatedTime</td>
-                <td>@item.IsDeleted</td>
-                <td><a href="/Product/Update/@item.Id" class="btn btn-warning">Update</a></td>
-            </tr>
-        }
-    </tbody>
-</table>
+<div style="max-width:1400px;margin:30px auto;padding:30px;background:#fff;border-radius:14px;box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Header -->
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:25px;">
+        <h2 style="margin:0;font-size:28px;font-weight:600;color:#222;">Products</h2>
+
+        <!-- Create -->
+        <a asp-action="Create"
+           style="background:#28a745;color:#fff;padding:10px 16px;border-radius:8px;
+                  text-decoration:none;font-size:24px;font-weight:600;">
+            +
+        </a>
+    </div>
+
+    <div class="row">
+        <table class="table" style="width:100%;border-collapse:separate;border-spacing:0;font-size:15px;">
+
+            <thead style="background:#f4f6f8;">
+                <tr>
+                    <th style="padding:14px 16px;">Id</th>
+                    <th style="padding:14px 16px;">Name</th>
+                    <th style="padding:14px 16px;">Price</th>
+                    <th style="padding:14px 16px;">ImageName</th>
+                    <th style="padding:14px 16px;">ImageUrl</th>
+                    <th style="padding:14px 16px;">Created</th>
+                    <th style="padding:14px 16px;">Updated</th>
+                    <th style="padding:14px 16px;text-align:center;">Status</th>
+                    <th style="padding:14px 16px;text-align:center;">Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr style="border-bottom:1px solid #eee;height:58px;">
+
+                        <td style="padding:14px 16px;">@item.Id</td>
+                        <td style="padding:14px 16px;font-weight:500;">@item.Name</td>
+                        <td style="padding:14px 16px;">@item.Price</td>
+                        <td style="padding:14px 16px;">@item.ImageName</td>
+
+                        <td style="padding:14px 16px;max-width:280px;word-break:break-all;">
+                            @item.imageUrl
+                        </td>
+
+                        <td style="padding:14px 16px;">
+                            @item.CreatedTime.ToString("yyyy-MM-dd")
+                        </td>
+
+                        <td style="padding:14px 16px;">
+                            @(item.UpdatedTime.HasValue? item.UpdatedTime.Value.ToString("yyyy-MM-dd") : "-")
+                        </td>
+
+                        <!-- IsDeleted -->
+                        <td style="padding:14px 16px;text-align:center;font-size:18px;font-weight:600;">
+                            @if (item.IsDeleted)
+                            {
+                                <span style="color:#28a745;">✔</span>
+                            }
+                            else
+                            {
+                                <span style="color:#dc3545;">✖</span>
+                            }
+                        </td>
+
+                        <!-- Actions -->
+                        <td style="padding:14px 16px;text-align:center;white-space:nowrap;font-size:18px;">
+
+                            <!-- Update -->
+                            <a asp-action="Update" asp-route-id="@item.Id"
+                               style="background:#ffc107;color:#000;padding:8px 12px;
+                                          border-radius:8px;text-decoration:none;margin-right:6px;">
+                                ✎
+                            </a>
+
+                            <!-- Delete -->
+                            <a asp-action="Delete" asp-route-id="@item.Id"
+                               style="background:#dc3545;color:#fff;padding:8px 12px;
+                                          border-radius:8px;text-decoration:none;margin-right:6px;">
+                                🗑
+                            </a>
+
+                            <!-- Toggle -->
+                            <a asp-action="Toggle" asp-route-id="@item.Id"
+                               style="background:#17a2b8;color:#fff;padding:8px 12px;
+                                          border-radius:8px;text-decoration:none;">
+                                ⟳
+                            </a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
